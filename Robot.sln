@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot", "Robot\Robot.csproj", "{87BA9CEC-AADE-468B-8616-558D9CA90115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph2D", "..\..\..\_Libraries\Graph2D\Graph2D.csproj", "{013BB650-8239-490C-8E47-CB206C7E7A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "..\..\..\_Libraries\Media\Media.csproj", "{5121ED6D-D438-46E5-ADE5-6B6BEC554CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87BA9CEC-AADE-468B-8616-558D9CA90115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BA9CEC-AADE-468B-8616-558D9CA90115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BA9CEC-AADE-468B-8616-558D9CA90115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BA9CEC-AADE-468B-8616-558D9CA90115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{013BB650-8239-490C-8E47-CB206C7E7A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013BB650-8239-490C-8E47-CB206C7E7A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013BB650-8239-490C-8E47-CB206C7E7A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013BB650-8239-490C-8E47-CB206C7E7A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5121ED6D-D438-46E5-ADE5-6B6BEC554CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5121ED6D-D438-46E5-ADE5-6B6BEC554CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5121ED6D-D438-46E5-ADE5-6B6BEC554CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5121ED6D-D438-46E5-ADE5-6B6BEC554CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82651DEA-9692-4B14-8873-DD2D27B2778D}
+	EndGlobalSection
+EndGlobal
